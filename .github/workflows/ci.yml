@@ -18,4 +18,4 @@ jobs:
           python-version: '3.x'
 
       - name: Run Hello World script
-        run: python hello.py
+        run: python error.py
